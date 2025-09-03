@@ -9,7 +9,6 @@
     String jdbcUrl = "jdbc:mariadb://localhost:3307/jsp_db?characterEncoding=UTF-8";
     String dbUser = "root";
     String dbPassword = "mariadb";
-
     Connection conn = null;
     PreparedStatement pstmt = null;
 
